@@ -10,3 +10,4 @@
  Take principal, rate and time as input and find the Simple Interest for the same.
  Take in two numbers and an operator (+, -, *, /) and calculate the value.
  Take two numbers as input and print the largest number.
+ Input a number and print all the factors of that number.
