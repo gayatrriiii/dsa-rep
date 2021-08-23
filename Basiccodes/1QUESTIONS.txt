@@ -6,3 +6,4 @@
  Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all.
  Find the factorial of a number, also take an input number.
  Find whether the input number is even or odd.
+ Take a name as an input and print greetings for that name.
