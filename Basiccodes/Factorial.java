@@ -10,7 +10,7 @@ public class Factorial {
         int factor = 1;
 
         for(int count = 1; count <= n; count++){
-            factor *= count;
+          factor = factor * count;
         }
         System.out.print("Factorial of number: "+ factor);
     }
