@@ -13,3 +13,8 @@
  Input currency in rupee and output in dollar.
  Take integer inputs till the user enters 0 and print the sum of all numbers.
  Take integer inputs till the user enters 0 and print the largest number from all.
+ Take input salary and check salary bonus with if-else conditions.
+ Print numbers from 1 to n using for loop.
+ Print numbers from 1 to 5 using while loop.
+ Print Hello world if n is not equal to 1 using do-while loop.
+ Take 3 numbers as inputs and print the maximum value (3 methods)
