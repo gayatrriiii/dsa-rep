@@ -18,3 +18,4 @@
  Print numbers from 1 to 5 using while loop.
  Print Hello world if n is not equal to 1 using do-while loop.
  Take 3 numbers as inputs and print the maximum value (3 methods)
+ Take input alphabet and check whether if it is lowercase or uppercase.
