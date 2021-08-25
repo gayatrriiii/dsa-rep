@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/.idea/out" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Basiccodes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Packages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Conditionals" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

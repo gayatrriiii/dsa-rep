@@ -1,7 +1,8 @@
 # dsa-rep
 A repository for Data Structures and Algorithms in Java (from basics)
 
-# Contents
+# Contents 
 
 1. Flowcharts and Pseudocodes
 2. Basic codes
+3. Conditonals and loops
