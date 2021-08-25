@@ -19,3 +19,7 @@
  Print Hello world if n is not equal to 1 using do-while loop.
  Take 3 numbers as inputs and print the maximum value (3 methods)
  Take input alphabet and check whether if it is lowercase or uppercase.
+ Find the nth fibonacci number.
+ Count how many times 5 occurs in the number 255955 or any other numbers you like.
+ Print the reverse of the number 23597 or any other number you like.
+ Calculator program: Keep taking inputs till users presses 'x' or 'X'.
