@@ -1,0 +1,25 @@
+ Input a year and find whether it is a leap year or not.
+ Take two numbers and print the sum of both.
+ Take a number as input and print the multiplication table for it.
+ Print Hello World!
+ Take two numbers as inputs and find their HCF and LCM.
+ Find the factorial of a number, also take an input number.
+ Find whether the input number is even or odd.
+ Take a name as an input and print greetings for that name.
+ Take principal, rate and time as input and find the Simple Interest for the same.
+ Take in two numbers and an operator (+, -, *, /) and calculate the value.
+ Take two numbers as input and print the largest number.
+ Input a number and print all the factors of that number.
+ Input currency in rupee and output in dollar.
+ Take integer inputs till the user enters 0 and print the sum of all numbers.
+ Take integer inputs till the user enters 0 and print the largest number from all.
+ Take input salary and check salary bonus with if-else conditions.
+ Print numbers from 1 to n using for loop.
+ Print numbers from 1 to 5 using while loop.
+ Print Hello world if n is not equal to 1 using do-while loop.
+ Take 3 numbers as inputs and print the maximum value (3 methods)
+ Take input alphabet and check whether if it is lowercase or uppercase.
+ Find the nth fibonacci number.
+ Count how many times 5 occurs in the number 255955 or any other numbers you like.
+ Print the reverse of the number 23597 or any other number you like.
+ Calculator program: Keep taking inputs till users presses 'x' or 'X'.
