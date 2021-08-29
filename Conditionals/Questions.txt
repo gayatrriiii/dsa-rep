@@ -1,7 +1,8 @@
-Area of: (1) Circle
-         (2) Triangle
-         (3) Rectangle
-         (4) Isosceles triangle
-         (5) Parallelogram
-         (6) Rhombus
-         (7) Equilateral triangle
+Area and perimeter: (1) Circle
+Area of:            (2) Triangle
+Area of:            (3) Isosceles triangle
+Area and perimeter: (4) Rectangle
+Area and perimeter: (5) Parallelogram
+Area and perimeter: (6) Rhombus
+Area and perimeter: (7) Equilateral triangle
+Perimeter of      : (8) Square
