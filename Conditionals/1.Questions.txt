@@ -6,3 +6,15 @@ Area and perimeter: (5) Parallelogram
 Area and perimeter: (6) Rhombus
 Area and perimeter: (7) Equilateral triangle
 Perimeter of      : (8) Square
+Volume Of Cone
+Volume Of Prism
+Volume Of Cylinder
+Volume Of Sphere
+Volume Of Pyramid
+Curved Surface Area Of Cylinder
+Total Surface Area Of Cube
+Fibonacci Series In Java Programs
+Subtract the Product and Sum of Digits of an Integer
+Input a number and print all the factors of that number (use loops).
+Take integer inputs till the user enters 0 and print the sum of all numbers.
+Take integer inputs till the user enters 0 and print the largest number from all.

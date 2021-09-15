@@ -1,9 +1,10 @@
-import java.util.Scanner;
+/* import java.util.Scanner;
 
 public class Areas {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        
+
+
         // (1) Area and perimeter of a circle:
 
         System.out.print("Enter the radius of the circle: ");
@@ -99,5 +100,5 @@ public class Areas {
 
     }
 }
-
+*/
 
