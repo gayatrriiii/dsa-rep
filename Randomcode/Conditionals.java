@@ -29,8 +29,41 @@ public class Conditionals {
         System.out.println(product - sum);
 
 
-  
+       // Using loops, input a number and print all the factors of that number
+        System.out.println("Please enter a number: ");
+        int num = in.nextInt();
 
-}
+        for(int i = 1; i <= num; i++) {
+            if (num % i == 0) {
+                System.out.println(i + " ");
+            }
+        }
+
+       // Take integer inputs till the user enters 0 and print the sum of all numbers.
+
+        System.out.println("Enter a number or press 0 to exit: ");
+        int sum = 0;
+        int num= in.nextInt();
+        while((num = in.nextInt()) != 0){
+            sum = sum + num;
+        }
+        System.out.println(sum);
+
+
+
+        // Take integer inputs till the user enters 0 and print the largest number from all.
+
+        System.out.println("Enter a number or press 0 to exit: ");
+        int num= in.nextInt();
+        int max = num;
+        while((num = in.nextInt()) != 0){
+          if ( num > max ) {
+              max = num;
+          }
+        }
+        System.out.println("Maximum numbere is: "+ max);
+
+
+    }
 }
 
